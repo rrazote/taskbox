@@ -20,7 +20,7 @@ export const SaveButton = Template.bind({});
 SaveButton.args = {
     variant: 'contained',
     size: 'small',
-    label: 'Save Different Button',
+    label: 'Change this text',
     color: 'success',
     disabled: false,
     startIcon: <SaveIcon />,
